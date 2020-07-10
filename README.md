@@ -1,1 +1,1 @@
-# BatchVCFAnnotation
+# BatchVCFAnnovarAnnotation
